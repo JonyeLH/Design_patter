@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/factory.h
+iostream
+-
+product.h
+../include/product.h
+
+../include/product.h
+iostream
+-
+factory.h
+../include/factory.h
+
+/home/admin/project/Design_parttern_project/my_design_partters_test/Factory/Abstract_Factory/src/main.cpp
+iostream
+-
+factory.h
+/home/admin/project/Design_parttern_project/my_design_partters_test/Factory/Abstract_Factory/src/factory.h
+

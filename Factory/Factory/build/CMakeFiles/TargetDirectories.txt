@@ -1,0 +1,4 @@
+/home/admin/project/Design_parttern_project/my_design_partters_test/Factory/Factory/build/CMakeFiles/rebuild_cache.dir
+/home/admin/project/Design_parttern_project/my_design_partters_test/Factory/Factory/build/CMakeFiles/edit_cache.dir
+/home/admin/project/Design_parttern_project/my_design_partters_test/Factory/Factory/build/CMakeFiles/factory.dir
+/home/admin/project/Design_parttern_project/my_design_partters_test/Factory/Factory/build/CMakeFiles/Factory_test.dir
